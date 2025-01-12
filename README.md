@@ -11,7 +11,9 @@ A simple command-line interface (CLI) to-do list manager and calculator built wi
 ## Installation
 1. Download the python script with name **basic_todo_manager.py** .
 2. Activate Your Virtual Environment
+
    *Open your terminal or command prompt.*
+
    *Navigate to your virtual environment directory*
    ```sh
        cd path/to/your/directory

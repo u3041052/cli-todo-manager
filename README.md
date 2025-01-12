@@ -19,4 +19,4 @@ A simple command-line interface (CLI) to-do list manager and calculator built wi
        cd path/to/your/directory
 
 3. **Run the Python script with the desired command.**
-     > python basic_todo_manager.py add "Buy groceries"
+     ```sh python basic_todo_manager.py add "Buy groceries"

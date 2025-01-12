@@ -19,5 +19,9 @@ A simple command-line interface (CLI) to-do list manager and calculator built wi
        cd path/to/your/directory
 
 3. **Run the Python script with the desired command.**
+   **Some examples are**
+    1. ## Add Tasks
+       -  Command : > add
+       -  Description: Adds a new task to the to-do list.
      ```sh
           python basic_todo_manager.py add "Buy groceries"

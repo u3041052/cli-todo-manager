@@ -21,7 +21,7 @@ A simple command-line interface (CLI) to-do list manager and calculator built wi
 3. **Run the Python script with the desired command.**
    **Some examples are**
      ## Add Tasks
-       - **Command**: 
+   - **Command**: 
   > add
   - **Description**: Adds a new task to the to-do list.
   - **Example**:
@@ -44,3 +44,15 @@ A simple command-line interface (CLI) to-do list manager and calculator built wi
     ```
     Task updated: Buy milk
     ```
+  ## Calculator
+  - **Command**
+    > calc
+  - **Description**: Performs basic arithmetic operations (add, subtract, multiply, divide) between two numbers.
+  - **Example**:
+    ```sh
+    python basic_todo_manager.py calc add 10 5
+    ```
+ - **Output**
+   ```
+   Result of add: 15.0
+   ```

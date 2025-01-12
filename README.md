@@ -1,7 +1,15 @@
-# CLI-todo-manager
-Will help you implement cli tools in python
-## Description
-This CLI-tool helps you in using commands to make you understand such as a to-do
-list manager, a calculator, or a file organizer. It uses e Python’s argparse library to
-handle command-line arguments. It also implement features such as adding,
-updating, and deleting tasks or items.
+# CLI To-Do Manager
+
+A simple command-line interface (CLI) to-do list manager and calculator built with Python.
+
+## Features
+- Add, update, and delete tasks
+- List all tasks
+- Mark tasks as complete
+- Basic calculator for arithmetic operations
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/cli-todo-manager.git
+   cd cli-todo-manager

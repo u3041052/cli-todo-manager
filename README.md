@@ -10,10 +10,12 @@ A simple command-line interface (CLI) to-do list manager and calculator built wi
 
 ## Requirements
 >Python IDE
+
 >Argparse library in python
 
 ## Prerequisites
 >A bit of python knowledge
+
 >A happy mind
 
 ## Installation

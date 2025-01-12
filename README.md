@@ -32,3 +32,15 @@ A simple command-line interface (CLI) to-do list manager and calculator built wi
     ```
     Task added: Buy groceries
     ```
+    ## Update Tasks
+      - **Command**: 
+    > update
+    - **Description**: Updates an existing task at the specified index.
+  - **Example**:
+    ```sh
+    python basic_todo_manager.py update 0 "Buy milk"
+     ```
+  - **Output**:
+    ```
+    Task updated: Buy milk
+    ```
